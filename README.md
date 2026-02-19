@@ -1,4 +1,4 @@
-# Oi 👋, Eu sou o marco
+# Oi 👋, Eu sou o Marco
 🚀 **Developer | C# | Javascript | Bootstrap | Python | C | React | SQL | Power Bi**  
 🇧🇷 Brasil
 
